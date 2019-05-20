@@ -35,9 +35,9 @@ We need to install following pip packages for application to run.
 Change to the project directory in Windows or Linux environment.
 
 On Linux:
-$ git clone 
-$ cd ~/Python-Flask-App--JSON-data-parsing-to-HTML/
-$ python flask-app.py
+  >> git clone 
+  >> cd ~/Python-Flask-App--JSON-data-parsing-to-HTML/
+  >> python flask-app.py
 
 On Windows:
 > Open RUN and type CMD.exe and hit enter.
